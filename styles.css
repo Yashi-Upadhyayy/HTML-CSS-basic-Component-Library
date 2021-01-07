@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
 
 :root
 {
@@ -7,7 +7,8 @@
 }
 body
 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'PT Serif', serif;
+    margin: 0px;
 }
 hr
 {
@@ -96,6 +97,7 @@ hr
 {
     color: var(--grey);
     padding-top: 1rem;
+    text-align: center;
 }
 
 /** Section **/
